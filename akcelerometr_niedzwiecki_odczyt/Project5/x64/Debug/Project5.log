@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\blaze\desktop\projekty\akcelerator_odczyt_gui\niedzwiecki_olszewski\project5\MyForm.h(442): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\blaze\desktop\projekty\akcelerator_odczyt_gui\niedzwiecki_olszewski\project5\MyForm.h(443): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\blaze\desktop\projekty\akcelerator_odczyt_gui\niedzwiecki_olszewski\project5\MyForm.h(421): warning C4101: "tab2": lokalna zmienna, do której nie istnieje odwołanie
+  Project5.vcxproj -> C:\Users\blaze\Desktop\projekty\akcelerator_odczyt_gui\niedzwiecki_olszewski\x64\Debug\Project5.exe
